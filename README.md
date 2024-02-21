@@ -15,7 +15,7 @@
 
     > 14 
     
-    and not the value 24?
+    and not the value 20?
 
 4. Write a program to accept a string from the user and display characters that are present at an even index number.
 
